@@ -1,4 +1,7 @@
 main:
+
+  - title: "Presentations"
+    url: /presentations/
   - title: "Projects"
     url: /projects/
   - title: "Skills"
