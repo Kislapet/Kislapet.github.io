@@ -5,3 +5,7 @@
 layout: single
 author_profile: true
 ---
+
+I am a **graduate student** IT at EPISEN, Créteil (France). My research interests are in the area of neurosciences and Gen AI. My main projects are:
+ - Project 1
+ - Project 2
