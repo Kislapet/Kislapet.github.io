@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 permalink: /index/
-title: "Index"
+
 header:
   overlay_image: "assets/images/header6.png"
   overlay_filter: "0.0"
