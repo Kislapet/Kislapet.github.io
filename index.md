@@ -4,6 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+header:
+  overlay_image: "assets/images/header6.png"
+  overlay_filter: "0.0"
 ---
 
 I am a **graduate student** IT at EPISEN, Créteil (France). My research interests are in the area of neurosciences and Gen AI. My main projects are:
