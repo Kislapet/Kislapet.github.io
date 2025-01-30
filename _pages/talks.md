@@ -2,7 +2,7 @@
 permalink: /talks/
 title: "Talks"
 header: 
-       overlay_image: "assets/header.png"
+       overlay_image: "assets/header2.png"
        overlay_filter: 0.0
 ---
 
