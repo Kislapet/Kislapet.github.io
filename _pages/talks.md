@@ -1,10 +1,11 @@
 ---
 permalink: /talks/
 title: "Talks"
-header: 
-       overlay_image: "assets/header2.png"
-       overlay_filter: 0.0
+header:
+  overlay_image: "assets/header2.png"
+  overlay_filter: "0.0"
 ---
+
 
 Did not make any talk to this day. 
 So instead, here is a video of another talk:
