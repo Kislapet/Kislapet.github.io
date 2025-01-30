@@ -4,9 +4,6 @@ title: "Talks"
 header:
   overlay_image: "assets/images/header2.png"
   overlay_filter: "0.0"
-actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 ---
 
 
