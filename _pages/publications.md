@@ -7,4 +7,4 @@ header:
 ---
 
 
-Did not publish yet excepted that fake article in last school year
+Did not publish yet except for that fake article made for my last school year
