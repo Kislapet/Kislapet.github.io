@@ -8,7 +8,6 @@ header:
 
 
 # Projects
-
 Favorite projects have a little emoji heart (❤) on them
 
 ## Owls Worst Nightmare : Final engineering project ❤
@@ -26,7 +25,7 @@ Videos were managed via Redis, as a light broker, and with Azure Function Apps a
 A Make automation makes a call to an Azure function app when a new video arrives from VideoAsk.
 
 <figure>
-  <img src="assets/images/projects/image.png" alt="Flowchart of the project">
+  <img src="../assets/images/projects/image.png" alt="Flowchart of the project">
   <figcaption>Flowchart of the project.</figcaption>
 </figure>
 </details>
@@ -46,10 +45,10 @@ After I made the game crash and corrupt our backup-less file by trying to implem
 <summary>See more...</summary>
 <br>
 <figure>
-  <img src="assets/images/projects/Serious_gif.gif" alt="">
+  <img src="../assets/images/projects/Serious_gif.gif" alt="">
 </figure>
 <figure>
-  <img src="assets/images/projects/image 1.png" alt="“Mañuel” snippet">
+  <img src="../assets/images/projects/image 1.png" alt="“Mañuel” snippet">
   <figcaption>“Mañuel” snippet.</figcaption>
 </figure>
 </details>
@@ -66,10 +65,10 @@ Implement a Radiology Information System to manage patients data, resources, med
 I used ThaiRIS open source project as our RIS. I had to connect it to a PACS (Picture Archieving and Communicating System that uses DICOM norms) and to a visualization system, but we didn’t manage to connect them in time.
 
 <figure>
-  <img src="assets/images/projects/image 2.png" alt="">
+  <img src="../assets/images/projects/image 2.png" alt="">
 </figure>
 <figure>
-  <img src="assets/images/projects/image 3.png" alt="">
+  <img src="../assets/images/projects/image 3.png" alt="">
 </figure>
 </details>
 
@@ -86,7 +85,7 @@ Gastroesophageal Reflux Disease (GERD) is due to a dysfunction of the cardia , t
     
 Babies suffering from GERD can be treated over a short period with medications such as proton pump inhibitors (PPIs), antacids, and prokinetic drugs. These have some secondary effects : nausea, diarrhea, abdominal pain…
 <figure>
-  <img src="assets/images/projects/Image3.png" alt="Accelerometer actual picture, and schematic representations.">
+  <img src="../assets/images/projects/Image3.png" alt="Accelerometer actual picture, and schematic representations.">
   <figcaption>Accelerometer actual picture, and schematic representations.</figcaption>
 </figure>    
 
