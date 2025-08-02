@@ -9,38 +9,6 @@ header:
 
 # Projects
 
-<!-- TOC -->
-* [Projects](#projects)
-  * [Owls Worst Nightmare : Final engineering project ❤](#owls-worst-nightmare--final-engineering-project-)
-  * [Ouch My Toe : Simple appointment scheduling API](#ouch-my-toe--simple-appointment-scheduling-api)
-  * [Just Stick The Password On The Computer : Serious Game for cybersecurity in hospitals ❤](#just-stick-the-password-on-the-computer--serious-game-for-cybersecurity-in-hospitals-)
-  * [French Public Hospitals On Windows XP: Building a RIS](#french-public-hospitals-on-windows-xp-building-a-ris)
-  * [Burp : Non-invasive GERD detection for babies ❤](#burp--non-invasive-gerd-detection-for-babies-)
-  * [Look At Meeeee ! CV interface for android](#look-at-meeeee--cv-interface-for-android)
-  * [Terminator (But On Wheels, Quite Like A Vacuum Cleaner) : Robotics](#terminator-but-on-wheels-quite-like-a-vacuum-cleaner--robotics)
-  * [Praise The Orange-Yellow-ish Color : Signal processing](#praise-the-orange-yellow-ish-color--signal-processing)
-* [Machine Learning Projects](#machine-learning-projects)
-  * [Giving The Voice Back: Voice synthesizer for people with voice loss ❤](#giving-the-voice-back-voice-synthesizer-for-people-with-voice-loss-)
-  * [It’s TV Time ! EEG, ECG and respiration data analysis for detecting immersion levels](#its-tv-time--eeg-ecg-and-respiration-data-analysis-for-detecting-immersion-levels)
-  * [I Have Eyes Now ! RAG Question Answering ❤](#i-have-eyes-now--rag-question-answering-)
-  * [City OS - The Beginning : Face recognition](#city-os---the-beginning--face-recognition)
-  * [⭐⭐⭐⭐⭐ : Sentiment analysis](#--sentiment-analysis)
-  * [Chihuahua Vs. Muffins war](#chihuahua-vs-muffins-war)
-  * [Oh Hell No : Coronary disease prediction](#oh-hell-no--coronary-disease-prediction)
-* [Electronics projects :](#electronics-projects-)
-  * [**Plethysmograph**](#plethysmograph)
-  * [**Galvanic Skin Response Sensor**](#galvanic-skin-responsesensor)
-  * [Phonocardiogram ❤](#phonocardiogram-)
-* [Networks projects:](#networks-projects)
-  * [Web server deployment with Ansible](#web-server-deployment-with-ansible)
-  * [Multi-node Kubernetes with KIND](#multi-node-kubernetes-with-kind)
-  * [Automatic attribution and securization of VLANs](#automatic-attribution-and-securization-of-vlans)
-* [Future projects :](#future-projects-)
-  * [Ouch My Toe 2 : Assessing pain in an objective fashion](#ouch-my-toe-2--assessing-pain-in-an-objective-fashion)
-  * [Begone, Alexa ! Modify an Amazon Echo Dot and customize it](#begone-alexa--modify-an-amazon-echo-dot-and-customize-it)
-  * [RTFM : Application to regroup all protocols for an hospital](#rtfm--application-to-regroup-all-protocols-for-an-hospital)
-<!-- TOC -->
-
 Favorite projects have a little emoji heart (❤) on them
 
 ## Owls Worst Nightmare : Final engineering project ❤
@@ -58,16 +26,10 @@ Videos were managed via Redis, as a light broker, and with Azure Function Apps a
 A Make automation makes a call to an Azure function app when a new video arrives from VideoAsk.
 
 <figure>
-  <img src="../assets/images/projects/image.png" alt="Flowchart of the project">
+  <img src="assets/images/projects/image.png" alt="Flowchart of the project">
   <figcaption>Flowchart of the project.</figcaption>
 </figure>
-    
-![Flowchart of the project](../assets/images/projects/image.png)
-    
-    Flowchart of the project
-    
 </details>
-
 
 
 ## Ouch My Toe : Simple appointment scheduling API
@@ -83,14 +45,15 @@ After I made the game crash and corrupt our backup-less file by trying to implem
 <details>
 <summary>See more...</summary>
 <br>
-
-![Serious gif.gif](assets/images/projects/Serious_gif.gif)
-    
-![“Mañuel” snippet](assets/images/projects/image 1.png)
-    
-
-    “Mañuel” snippet
+<figure>
+  <img src="assets/images/projects/Serious_gif.gif" alt="">
+</figure>
+<figure>
+  <img src="assets/images/projects/image 1.png" alt="“Mañuel” snippet">
+  <figcaption>“Mañuel” snippet.</figcaption>
+</figure>
 </details>
+
 
 ## French Public Hospitals On Windows XP: Building a RIS
 
@@ -101,10 +64,13 @@ Implement a Radiology Information System to manage patients data, resources, med
 <br>
 
 I used ThaiRIS open source project as our RIS. I had to connect it to a PACS (Picture Archieving and Communicating System that uses DICOM norms) and to a visualization system, but we didn’t manage to connect them in time.
-    
-![image.png](assets/images/projects/image 2.png)
-    
-![image.png](assets/images/projects/image 3.png)
+
+<figure>
+  <img src="assets/images/projects/image 2.png" alt="">
+</figure>
+<figure>
+  <img src="assets/images/projects/image 3.png" alt="">
+</figure>
 </details>
 
 
@@ -119,33 +85,35 @@ Gastroesophageal Reflux Disease (GERD) is due to a dysfunction of the cardia , t
 <br>
     
 Babies suffering from GERD can be treated over a short period with medications such as proton pump inhibitors (PPIs), antacids, and prokinetic drugs. These have some secondary effects : nausea, diarrhea, abdominal pain…
-    
-![Accelerometer actual picture, and schematic representations.](../assets/images/projects/Image3.png)
-    
-    Accelerometer actual picture, and schematic representations.
+<figure>
+  <img src="assets/images/projects/Image3.png" alt="Accelerometer actual picture, and schematic representations.">
+  <figcaption>Accelerometer actual picture, and schematic representations.</figcaption>
+</figure>    
+
     
 A mechanical and simple treatment is to elevate the head of the bed by 30°, but has to be watched carefully because of the risks of newborn sudden death.
     
 The project was to use a small accelerometer as a non-invasive method to detect movement in the lower esophagus part, thus detecting acidic reflux AND non-acidic reflux (an innovation !!! Wow !!!)
-    
-![The sensor would be placed on the subxiphoid process…](../assets/images/projects/Image2.png)
-    
-    The sensor would be placed on the subxiphoid process…
-    
-![…on the baby’s torso.
-    ](assets/images/projects/Image1.png)
-    
-    …on the baby’s torso.
-    
+<figure>
+  <img src="../assets/images/projects/Image2.png" alt="The sensor would be placed on the subxiphoid process…">
+  <figcaption>The sensor would be placed on the subxiphoid process…</figcaption>
+</figure>     
+
+<figure>
+  <img src="../assets/images/projects/Image1.png" alt="…on the baby’s torso.">
+  <figcaption>…on the baby’s torso.</figcaption>
+</figure>  
+ 
 The signal is processed, and when an acceleration is detected, the bed elevates for a short period of time, and then goes back to its original position. A mobile application receives a notification to alert the parents. They can choose to disable the automatic mode, or to customize it.
-    
-![Bed mechanical schema.](assets/images/projects/Image4.png)
-    
-    Bed mechanical schema.
-    
-![Computer application interface. ](assets/images/projects/Image0.png)
-    
-    Computer application interface. 
+
+<figure>
+  <img src="../assets/images/projects/Image4.png" alt="Bed mechanical schema.">
+  <figcaption>Bed mechanical schema.</figcaption>
+</figure>
+<figure>
+  <img src="../assets/images/projects/Image0.png" alt="Computer application interface.">
+  <figcaption>Computer application interface.</figcaption>
+</figure>
 </details>
 
 
@@ -153,9 +121,206 @@ The signal is processed, and when an acceleration is detected, the bed elevates 
 
 Development of a small interface in Flutter with android studio to present my curriculum vitae.
 
-<figure class="video_container">
-  <iframe src="../assets/images/projects/424921155_7279189122160841_108485674593356398_n.mp4" allowfullscreen="true">
-</iframe>
+<video width="304" height="656" controls>
+  <source src="../assets/images/projects/424921155_7279189122160841_108485674593356398_n.mp4" type="video/mp4">
+</video>
+
+## Terminator (But On Wheels, Quite Like A Vacuum Cleaner) : Robotics
+
+Controlling a virtual e-puck robot on Cyberbotics’s WeBot software
+
+Writing a program in python that read from the ePuck's sensors and can control it to explore a map until finding a green ball.
+
+
+<figure>
+  <img src="../assets/images/projects/download.jpg" alt="E-puck robot">
+</figure>
+<figure>
+  <img src="../assets/images/projects/.Projet_Epuck_Python_V2023.jpg" alt="Robot and green ball in a 3d labyrinth.">
+  <figcaption>Robot and green ball in a 3d labyrinth.</figcaption>
 </figure>
 
-[424921155_7279189122160841_108485674593356398_n.mp4](assets/images/projects/424921155_7279189122160841_108485674593356398_n.mp4)
+
+## Praise The Orange-Yellow-ish Color : Signal processing
+
+Creation of an interface on Matlab allowing the user to simulate a signal by selecting parameters such as lowest value or slope , add noise to it, extract the parameters and analyze the relative error evolution.
+
+4 models are available : Linear, Exponential, Power and Logarithmic.
+<figure>
+  <img src="../assets/images/projects/image 4.png" alt="Interface visualization.">
+</figure>
+
+# Machine Learning Projects
+
+## Giving The Voice Back: Voice synthesizer for people with voice loss ❤
+
+Creating a vocal synthesizer that would be able to recreate the patient’s former voice, and to speak old French languages (Breton, Patois, Occitan…) and write a publication (in the publications tab!!!)
+
+This project uses So-VITS-SVC (State-of-the-art Variational Inference-based Text-to-Speech (TTS) Vocoder with Speech Conversion), which is a neural network designed for speech synthesis. It can extract speaker’s embeddings and vocoders to reproduce waveforms.
+<figure>
+  <img src="../assets/images/projects/image 5.png" alt="Example of training data : spectrogram from the first Mozilla Common voice Breton file…">
+  <figcaption>Example of training data : spectrogram from the first Mozilla Common voice Breton file…</figcaption>
+</figure>
+
+<figure>
+  <img src="../assets/images/projects/image 6.png" alt="...To convert then to a log-mel spectrogram for better machine readability.">
+  <figcaption>...To convert then to a log-mel spectrogram for better machine readability.</figcaption>
+</figure>
+
+This project is incomplete as it requires quite a lot of space and power (mp3 training data is really heavy). I wish to complete it someday.
+
+
+## It’s TV Time ! EEG, ECG and respiration data analysis for detecting immersion levels
+
+Analysis of multimodal data to predict participant immersion level while watching videos.
+<figure>
+  <img src="../assets/images/projects/niveau_immersion.png" alt="The immersion increases with media quality (image and sound)">
+  <figcaption>The immersion increases with media quality (image and sound)</figcaption>
+</figure>
+<figure>
+  <img src="../assets/images/projects/image 7.png" alt="Confusion matrix for predicting levels of immersion">
+  <figcaption>Confusion matrix for predicting levels of immersion</figcaption>
+</figure>
+<figure>
+  <img src="../assets/images/projects/image 8.png" alt="And corresponding, absolutely awful accuracy. 5d hyperspace tables are not for me.">
+  <figcaption>And corresponding, absolutely awful accuracy. 5d hyperspace tables are not for me.</figcaption>
+</figure>
+
+
+## I Have Eyes Now ! RAG Question Answering ❤
+
+Give a 10-pages PDF file to a RAG, ask a question and get an answer.
+
+<details>
+<summary>Read more...</summary>
+<br>
+**Ask a question :**
+    
+"Comment sont évacués les déchets du système sanguin?”
+    
+**Get the right** information **page** (here it’s the second one) :
+<figure>
+  <img src="../assets/images/projects/image 9.png" alt="image.png">
+</figure>
+    
+**Get the answer :**
+    
+“Les déchets du système sanguin sont évacués de deux façons :
+    
+1. Le dioxyde de carbone est éliminé au niveau du système respiratoire.
+2. Les autres déchets (urée, acide urique, etc.) sont éliminés au niveau des reins chez les mammifères.”
+</details>
+
+
+## City OS - The Beginning : Face recognition
+
+Using MTCNN and an instance of an Inception-Resnet V1, we manage to create a model that recognizes 1 subject among 128. However, with too much accessories, the model struggles to understand the resemblance. 
+<figure>
+  <img src="../assets/images/projects/image 10.png" alt="Faces of the 96th identity recognized by MTCNN.">
+  <figcaption>Faces of the 96th identity recognized by MTCNN.</figcaption>
+</figure>
+<figure>
+  <img src="../assets/images/projects/image 11.png" alt="Faces of the 96th identity not recognized by MTCNN.">
+  <figcaption>Faces of the 96th identity not recognized by MTCNN.</figcaption>
+</figure>
+
+
+## ⭐⭐⭐⭐⭐ : Sentiment analysis
+
+Creation of an app in python that allows the user to write a text for input, and
+makes a prediction on the star rating, and its probability. It
+handles exceptions and errors and writes messages.
+
+## Chihuahua Vs. Muffins war
+
+Train a model to differentiate chihuahuas from muffins (I can tell this works very well, not only because of the nice accuracy, but also because I would try to pet the second image to see if it reacts if I could! )
+<figure>
+  <img src="../assets/images/projects/image 12.png" alt="pa-pa-pa-pala! Chihuahua!">
+</figure>
+
+See you in the next episode : Pericarditis vs. Lasagna.
+
+
+## Oh Hell No : Coronary disease prediction
+
+Simple prediction of coronary disease probability using Kaggle dataset.
+
+
+
+# Electronics projects :
+
+*Don’t ask me how but it works*
+
+I did some very interesting electronics projects, but I feel like I'm not very good at it. However, I’m eager to improve in this domain because of its importance in project development. So, here comes nothing ! 
+<figure>
+  <img src="../assets/images/projects/0tnpbinl7uz51.jpg" alt="Elektrik">
+</figure>
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=551760206/size=small/bgcol=ffffff/linkcol=0687f5/track=2380902705/transparent=true/" seamless><a href="https://c418.bandcamp.com/album/minecraft-volume-beta">Minecraft - Volume Beta de C418</a></iframe>
+
+[https://c418.bandcamp.com/track/stal](https://c418.bandcamp.com/track/stal)
+
+*A little music to ease my soul and yours while reading*
+
+## **Plethysmograph**
+
+BPM sensor : the patient puts a finger between a LED and a phototransistor. A signal is created from the phototransistor, depending on the level of light received. With an oscilloscope, we can print and analyze the signal to determine the BPM of the patient.
+<figure>
+  <img src="../assets/images/projects/image 13.png" alt="BPM sensor model.">
+  <figcaption>BPM sensor model.</figcaption>
+</figure>
+
+
+## **Galvanic Skin Response Sensor**
+
+Changes in physiology are directly expressed in the innervation of the skin. These expression can be measured as fluctuations in electrodermal activity. To prevent some troubles such as epileptic fits or a blackouts, we can analyze the evolution of electrodermal activity, thus create a biofeedback.
+<figure>
+  <img src="../assets/images/projects/image 14.png" alt="GSR sensor model.">
+  <figcaption>GSR sensor model.</figcaption>
+</figure>
+
+
+## Phonocardiogram ❤
+
+Another way to get the BPM. For each heartbeat, a LED brightens. With a small piezo-electrical crystal, put on an artery (here, on the carotid artery), a signal is generated for each vibration and sent to the LED. 
+<figure>
+  <img src="../assets/images/projects/image 15.png" alt="Phonocardiogram model.">
+  <figcaption>Phonocardiogram model.</figcaption>
+</figure>
+
+
+# Networks projects:
+
+## Web server deployment with Ansible
+
+Writing a playbook to use nginx on 3 VM
+
+## Multi-node Kubernetes with KIND
+
+A MariaDB instance was deployed on 1 worker, and a pre-made app was deployed on the other.
+
+## Automatic attribution and securization of VLANs
+
+Configuration of a Cisco switch, RADIUS, DHCP servers, and of course creation of 5 VLANs.
+<figure>
+  <img src="../assets/images/projects/Capture_dcran_2023-10-24_092745.png" alt="VLAN planning.">
+</figure>
+
+
+# Future projects :
+
+## Ouch My Toe 2 : Assessing pain in an objective fashion
+
+EEG, Blood biomarkers such as GNG7, CCND1, heart rate, blood pressure and pupillary diameter variability… So much perspectives to dig! 
+<figure>
+  <img src="../assets/images/projects/image 16.png" alt="VLAN planning.">
+</figure>
+
+
+## Begone, Alexa ! Modify an Amazon Echo Dot and customize it
+
+Just burn Alexa
+
+## RTFM : Application to regroup all protocols for an hospital
+
+Each hospitals has its own dozens of protocols. The complexity of the IT systems and practitioners’ lack of time results in walls covered in protocol posters.
