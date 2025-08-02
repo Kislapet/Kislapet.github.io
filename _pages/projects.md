@@ -57,7 +57,7 @@ Videos were managed via Redis, as a light broker, and with Azure Function Apps a
     
 A Make automation makes a call to an Azure function app when a new video arrives from VideoAsk.
     
-![Flowchart of the project](assets/images/projects/image.png)
+![Flowchart of the project](assets/images/header1.png)
     
     Flowchart of the project
     
