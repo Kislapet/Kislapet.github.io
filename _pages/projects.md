@@ -56,12 +56,18 @@ The videos were optimized using FFMPEG, for example the sound was normalized. Th
 Videos were managed via Redis, as a light broker, and with Azure Function Apps and storages.
     
 A Make automation makes a call to an Azure function app when a new video arrives from VideoAsk.
+
+<figure>
+  <img src="../assets/images/projects/image.png" alt="Flowchart of the project">
+  <figcaption>Flowchart of the project.</figcaption>
+</figure>
     
-![Flowchart of the project](assets/images/header1.png)
+![Flowchart of the project](../assets/images/projects/image.png)
     
     Flowchart of the project
     
 </details>
+
 
 
 ## Ouch My Toe : Simple appointment scheduling API
