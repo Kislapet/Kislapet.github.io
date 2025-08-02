@@ -57,7 +57,7 @@ Videos were managed via Redis, as a light broker, and with Azure Function Apps a
     
 A Make automation makes a call to an Azure function app when a new video arrives from VideoAsk.
     
-![Flowchart of the project](../assets/images/projects/image.png)
+![Flowchart of the project](assets/images/projects/image.png)
     
     Flowchart of the project
     
@@ -78,9 +78,9 @@ After I made the game crash and corrupt our backup-less file by trying to implem
 <summary>See more...</summary>
 <br>
 
-![Serious gif.gif](../assets/images/projects/Serious_gif.gif)
+![Serious gif.gif](assets/images/projects/Serious_gif.gif)
     
-![“Mañuel” snippet](../assets/images/projects/image 1.png)
+![“Mañuel” snippet](assets/images/projects/image 1.png)
     
 
     “Mañuel” snippet
@@ -96,9 +96,9 @@ Implement a Radiology Information System to manage patients data, resources, med
 
 I used ThaiRIS open source project as our RIS. I had to connect it to a PACS (Picture Archieving and Communicating System that uses DICOM norms) and to a visualization system, but we didn’t manage to connect them in time.
     
-![image.png](../assets/images/projects/image 2.png)
+![image.png](assets/images/projects/image 2.png)
     
-![image.png](../assets/images/projects/image 3.png)
+![image.png](assets/images/projects/image 3.png)
 </details>
 
 
@@ -127,17 +127,17 @@ The project was to use a small accelerometer as a non-invasive method to detect 
     The sensor would be placed on the subxiphoid process…
     
 ![…on the baby’s torso.
-    ](../assets/images/projects/Image1.png)
+    ](assets/images/projects/Image1.png)
     
     …on the baby’s torso.
     
 The signal is processed, and when an acceleration is detected, the bed elevates for a short period of time, and then goes back to its original position. A mobile application receives a notification to alert the parents. They can choose to disable the automatic mode, or to customize it.
     
-![Bed mechanical schema.](../assets/images/projects/Image4.png)
+![Bed mechanical schema.](assets/images/projects/Image4.png)
     
     Bed mechanical schema.
     
-![Computer application interface. ](../assets/images/projects/Image0.png)
+![Computer application interface. ](assets/images/projects/Image0.png)
     
     Computer application interface. 
 </details>
@@ -152,4 +152,4 @@ Development of a small interface in Flutter with android studio to present my cu
 </iframe>
 </figure>
 
-[424921155_7279189122160841_108485674593356398_n.mp4](../assets/images/projects/424921155_7279189122160841_108485674593356398_n.mp4)
+[424921155_7279189122160841_108485674593356398_n.mp4](assets/images/projects/424921155_7279189122160841_108485674593356398_n.mp4)
