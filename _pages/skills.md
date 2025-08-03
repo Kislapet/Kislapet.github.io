@@ -18,19 +18,13 @@ I started learning drums in 2014.
 Here are 3 of my favorites tracks to play on drums!
 <div style="display:flex;">
 <div style="width:50%">
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=kb3Lt18iQUw"  allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="1695" height="718" src="https://www.youtube.com/embed/kb3Lt18iQUw" title="Judith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <div style="width:50%">
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=PeQAZsyucbQ"  allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="1695" height="718" src="https://www.youtube.com/embed/PeQAZsyucbQ" title="Arctic Monkeys - The View From The Afternoon (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <div style="width:50%">
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=EAiksF4bHpg"  allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="1695" height="718" src="https://www.youtube.com/embed/EAiksF4bHpg" title="Spiritbox - Eternal Blue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -66,9 +60,7 @@ First, was the promotional video released on social media, trying to reproduce e
 
 Then, the making of the cakes (winter fruits version) : 
 
-<figure>
-  <img src="../assets/images/skills/IMG-20230316-WA0001.jpg" alt="BPM sensor model.">
-</figure>
+<iframe width="445" height="791" src="https://www.youtube.com/embed/QAws5rPVEGY" title="pavlova" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Conclusion : thanks to magically found cardboard boxes, we were able to bring all meringues to school safely. We bought the teacher’s silence with a fresh baked Pavlova. What would have you done if you were him? 
@@ -79,5 +71,7 @@ Last year, I did my first alone trip. I left France for a semester in Vietnam, I
 
 I have so much pictures that I can make slideshows that annoys my friends, but I will share here the most important : food and ugly tortoises.
 
-![ouais.png](../assets/images/skills/ouais.png)
+<figure>
+  <img src="../assets/images/skills/ouais.png" alt="Ouais">
+</figure>
 
