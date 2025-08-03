@@ -11,8 +11,8 @@ header:
 
 # Exploring voice conversion for individuals with mutism or voice loss (2025)
 
-[[https://drive.google.com/file/d/1oEAgUAEQKUmUR69kY6StcpdRsWfF0Zj_/view?usp=sharing](https://drive.google.com/file/d/1oEAgUAEQKUmUR69kY6StcpdRsWfF0Zj_/view?usp=sharing)](https://drive.google.com/file/d/1oEAgUAEQKUmUR69kY6StcpdRsWfF0Zj_/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1oEAgUAEQKUmUR69kY6StcpdRsWfF0Zj_/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # Malaria detection through federated learning (Abroad internship report - 2024)
 
-[[https://drive.google.com/file/d/1xYECY3qNsO3Xp1ydpOE2PCVkqnKtwZlU/view?usp=sharing](https://drive.google.com/file/d/1xYECY3qNsO3Xp1ydpOE2PCVkqnKtwZlU/view?usp=sharing)](https://drive.google.com/file/d/1xYECY3qNsO3Xp1ydpOE2PCVkqnKtwZlU/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1xYECY3qNsO3Xp1ydpOE2PCVkqnKtwZlU/preview" width="640" height="480" allow="autoplay"></iframe>
