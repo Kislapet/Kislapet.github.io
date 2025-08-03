@@ -93,14 +93,10 @@ Babies suffering from GERD can be treated over a short period with medications s
 A mechanical and simple treatment is to elevate the head of the bed by 30°, but has to be watched carefully because of the risks of newborn sudden death.
     
 The project was to use a small accelerometer as a non-invasive method to detect movement in the lower esophagus part, thus detecting acidic reflux AND non-acidic reflux (an innovation !!! Wow !!!)
-<figure>
-  <img src="../assets/images/projects/Image2.png" alt="The sensor would be placed on the subxiphoid process…">
-  <figcaption>The sensor would be placed on the subxiphoid process…</figcaption>
-</figure>     
 
 <figure>
-  <img src="../assets/images/projects/Image1.png" alt="…on the baby’s torso.">
-  <figcaption>…on the baby’s torso.</figcaption>
+  <img src="../assets/images/projects/Image1.png" alt="The sensor would be placed on the subxiphoid process…on the baby’s torso.">
+  <figcaption>The sensor would be placed on the subxiphoid process……on the baby’s torso.</figcaption>
 </figure>  
  
 The signal is processed, and when an acceleration is detected, the bed elevates for a short period of time, and then goes back to its original position. A mobile application receives a notification to alert the parents. They can choose to disable the automatic mode, or to customize it.
@@ -214,14 +210,14 @@ Give a 10-pages PDF file to a RAG, ask a question and get an answer.
 ## City OS - The Beginning : Face recognition
 
 Using MTCNN and an instance of an Inception-Resnet V1, we manage to create a model that recognizes 1 subject among 128. However, with too much accessories, the model struggles to understand the resemblance. 
-<div class="column-list">
-<div style="width:50%" class="column">
+<div style="display:flex;">
+<div style="width:50%">
 <figure>
   <img src="../assets/images/projects/image 10.png" alt="Faces of the 96th identity recognized by MTCNN." style="width:240px">
   <figcaption>Faces of the 96th identity recognized by MTCNN.</figcaption>
 </figure>
 </div>
-<div style="width:50%" class="column">
+<div style="width:50%">
 <figure>
   <img src="../assets/images/projects/image 11.png" alt="Faces of the 96th identity not recognized by MTCNN." style="width:240px">
   <figcaption>Faces of the 96th identity not recognized by MTCNN.</figcaption>
