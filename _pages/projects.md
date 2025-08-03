@@ -214,14 +214,20 @@ Give a 10-pages PDF file to a RAG, ask a question and get an answer.
 ## City OS - The Beginning : Face recognition
 
 Using MTCNN and an instance of an Inception-Resnet V1, we manage to create a model that recognizes 1 subject among 128. However, with too much accessories, the model struggles to understand the resemblance. 
+<div class="column-list">
+<div style="width:50%" class="column">
 <figure>
-  <img src="../assets/images/projects/image 10.png" alt="Faces of the 96th identity recognized by MTCNN.">
+  <img src="../assets/images/projects/image 10.png" alt="Faces of the 96th identity recognized by MTCNN." style="width:240px">
   <figcaption>Faces of the 96th identity recognized by MTCNN.</figcaption>
 </figure>
+</div>
+<div style="width:50%" class="column">
 <figure>
-  <img src="../assets/images/projects/image 11.png" alt="Faces of the 96th identity not recognized by MTCNN.">
+  <img src="../assets/images/projects/image 11.png" alt="Faces of the 96th identity not recognized by MTCNN." style="width:240px">
   <figcaption>Faces of the 96th identity not recognized by MTCNN.</figcaption>
 </figure>
+</div>
+</div>
 
 
 ## ⭐⭐⭐⭐⭐ : Sentiment analysis
