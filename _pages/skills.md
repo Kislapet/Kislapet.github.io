@@ -76,25 +76,18 @@ I have so much pictures that I can make slideshows that annoys my friends, but I
 
 <figure class="third">
   <a href="../assets/images/skills/IMG_20240807_103001.jpg">
-  <img src="../assets/images/skills/IMG_20240807_103001.jpg"></a>
+  <img src="../assets/images/skills/IMG_20240807_103001.jpg" alt="prout"></a>
 
-  <a href="../assets/images/skills/IMG_20240807_102953.jpg">
-  <img src="../assets/images/skills/IMG_20240807_102953.jpg"></a>
+  <a href="../assets/images/skills/IMG_20240807_102953.jpg"></a>
+  <a href="../assets/images/skills/IMG_20240730_135939.jpg"></a>
+  <a href="../assets/images/skills/IMG_20240428_104621.jpg"></a>
+  <a href="../assets/images/skills/IMG_20240426_130936.jpg"></a>
+  <a href="../assets/images/skills/IMG_20240802_162111.jpg"></a>
 
-  <a href="../assets/images/skills/IMG_20240730_135939.jpg">
-  <img src="../assets/images/skills/IMG_20240730_135939.jpg"></a>
-
-  <a href="../assets/images/skills/IMG_20240428_104621.jpg">
-  <img src="../assets/images/skills/IMG_20240428_104621.jpg"></a>
-
-  <a href="../assets/images/skills/IMG_20240426_130936.jpg">
-  <img src="../assets/images/skills/IMG_20240426_130936.jpg"></a>
-
-  <a href="../assets/images/skills/IMG_20240802_162111.jpg">
-  <img src="../assets/images/skills/IMG_20240802_162111.jpg"></a>
 
   <figcaption>Yes, there is an outsider!</figcaption>
 </figure>
+
 
 
 
