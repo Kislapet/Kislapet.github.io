@@ -28,11 +28,13 @@ Here are 3 of my favorites tracks to play on drums!
 </div>
 </div>
 
+
 ## Piano / Guitar
 
 Before drums, I took piano lessons, so I’m able to read music sheets, but not really to improvise on piano.
 
 When I was in high school, I took the music option. There was not enough guitarists, so during summer I learned all the basic chords to be able to accompany the other students. As the drum parts were sometimes really easy, I could teach others how to play them.
+
 
 ## Composing
 
@@ -43,6 +45,8 @@ I managed to create this breakcore sample last year:
 <audio controls>
   <source src="../assets/images/skills/Breakcore.mp3" type="audio/mpeg">
 </audio>
+
+
 
 
 # Cooking And Video Edit
@@ -63,11 +67,36 @@ Then, the making of the cakes (winter fruits version) :
 
 Conclusion : thanks to magically found cardboard boxes, we were able to bring all meringues to school safely. We bought the teacher’s silence with a fresh baked Pavlova. What would have you done if you were him? 
 
+
 # Pictures/Travels
 
 Last year, I did my first alone trip. I left France for a semester in Vietnam, I went in Thaïland for Têt vacations, and finished by a solo-travel to Japan by earth and seas of 1 month and 1/2, to finally go back to Barcelona, and to France.
 
 I have so much pictures that I can make slideshows that annoys my friends, but I will share here the most important : food and ugly tortoises.
+
+<figure class="third">
+  <a href="../assets/images/skills/IMG_20240807_103001.jpg">
+  <img src="../assets/images/skills/IMG_20240807_103001.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240807_102953.jpg">
+  <img src="../assets/images/skills/IMG_20240807_102953.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240730_135939.jpg">
+  <img src="../assets/images/skills/IMG_20240730_135939.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240428_104621.jpg">
+  <img src="../assets/images/skills/IMG_20240428_104621.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240426_130936.jpg">
+  <img src="../assets/images/skills/IMG_20240426_130936.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240802_162111.jpg">
+  <img src="../assets/images/skills/IMG_20240802_162111.jpg"></a>
+
+  <figcaption>Yes, there is an outsider!</figcaption>
+</figure>
+
+
 
 <figure>
   <img src="../assets/images/skills/ouais.png" alt="Ouais">
