@@ -54,14 +54,12 @@ The mission was simple : communicate about the event, cook and manage the transp
 
 First, was the promotional video released on social media, trying to reproduce early television style, switching to Technicolor :
 
-<figure class="video_container">
-  <iframe src="https://youtube.com/shorts/QAws5rPVEGY?feature=share"  allowfullscreen="true"> </iframe>
-</figure>
-
-Then, the making of the cakes (winter fruits version) : 
-
 <iframe width="445" height="791" src="https://www.youtube.com/embed/QAws5rPVEGY" title="pavlova" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Then, the making of the cakes (winter fruits version) :
+<figure>
+  <img src="../assets/images/skills/IMG-20230316-WA0001.jpg" alt="Pavlovas">
+</figure>
 
 Conclusion : thanks to magically found cardboard boxes, we were able to bring all meringues to school safely. We bought the teacher’s silence with a fresh baked Pavlova. What would have you done if you were him? 
 
@@ -74,4 +72,3 @@ I have so much pictures that I can make slideshows that annoys my friends, but I
 <figure>
   <img src="../assets/images/skills/ouais.png" alt="Ouais">
 </figure>
-
