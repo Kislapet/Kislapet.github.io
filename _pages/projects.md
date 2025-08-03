@@ -260,7 +260,6 @@ I did some very interesting electronics projects, but I feel like I'm not very g
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=551760206/size=small/bgcol=ffffff/linkcol=0687f5/track=2380902705/transparent=true/" seamless><a href="https://c418.bandcamp.com/album/minecraft-volume-beta">Minecraft - Volume Beta de C418</a></iframe>
 
-[https://c418.bandcamp.com/track/stal](https://c418.bandcamp.com/track/stal)
 
 *A little music to ease my soul and yours while reading*
 
