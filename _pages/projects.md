@@ -135,7 +135,7 @@ Writing a program in python that read from the ePuck's sensors and can control i
   <img src="../assets/images/projects/download.jpg" alt="E-puck robot">
 </figure>
 <figure>
-  <img src="../assets/images/projects/.Projet_Epuck_Python_V2023.jpg" alt="Robot and green ball in a 3d labyrinth.">
+  <img src="../assets/images/projects/Projet_Epuck_Python_V2023.jpg" alt="Robot and green ball in a 3d labyrinth.">
   <figcaption>Robot and green ball in a 3d labyrinth.</figcaption>
 </figure>
 
