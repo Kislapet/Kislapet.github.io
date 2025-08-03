@@ -91,6 +91,7 @@ Babies suffering from GERD can be treated over a short period with medications s
 
     
 A mechanical and simple treatment is to elevate the head of the bed by 30°, but has to be watched carefully because of the risks of newborn sudden death.
+
     
 The project was to use a small accelerometer as a non-invasive method to detect movement in the lower esophagus part, thus detecting acidic reflux AND non-acidic reflux (an innovation !!! Wow !!!)
 
@@ -128,10 +129,10 @@ Writing a program in python that read from the ePuck's sensors and can control i
 
 
 <figure>
-  <img src="../assets/images/projects/download.jpg" alt="E-puck robot">
+  <img src="../assets/images/projects/download.jpg" alt="E-puck robot" style="width:500px">
 </figure>
 <figure>
-  <img src="../assets/images/projects/Projet_Epuck_Python_V2023.jpg" alt="Robot and green ball in a 3d labyrinth.">
+  <img src="../assets/images/projects/Projet_Epuck_Python_V2023.jpg" alt="Robot and green ball in a 3d labyrinth." style="width:500px">
   <figcaption>Robot and green ball in a 3d labyrinth.</figcaption>
 </figure>
 
@@ -153,12 +154,12 @@ Creating a vocal synthesizer that would be able to recreate the patient’s form
 
 This project uses So-VITS-SVC (State-of-the-art Variational Inference-based Text-to-Speech (TTS) Vocoder with Speech Conversion), which is a neural network designed for speech synthesis. It can extract speaker’s embeddings and vocoders to reproduce waveforms.
 <figure>
-  <img src="../assets/images/projects/image 5.png" alt="Example of training data : spectrogram from the first Mozilla Common voice Breton file…">
+  <img src="../assets/images/projects/image 5.png" alt="Example of training data : spectrogram from the first Mozilla Common voice Breton file…" style="width:500px">
   <figcaption>Example of training data : spectrogram from the first Mozilla Common voice Breton file…</figcaption>
 </figure>
 
 <figure>
-  <img src="../assets/images/projects/image 6.png" alt="...To convert then to a log-mel spectrogram for better machine readability.">
+  <img src="../assets/images/projects/image 6.png" alt="...To convert then to a log-mel spectrogram for better machine readability." style="width:500px">
   <figcaption>...To convert then to a log-mel spectrogram for better machine readability.</figcaption>
 </figure>
 
@@ -169,15 +170,15 @@ This project is incomplete as it requires quite a lot of space and power (mp3 tr
 
 Analysis of multimodal data to predict participant immersion level while watching videos.
 <figure>
-  <img src="../assets/images/projects/niveau_immersion.png" alt="The immersion increases with media quality (image and sound)">
+  <img src="../assets/images/projects/niveau_immersion.png" alt="The immersion increases with media quality (image and sound)" style="width:500px">
   <figcaption>The immersion increases with media quality (image and sound)</figcaption>
 </figure>
 <figure>
-  <img src="../assets/images/projects/image 7.png" alt="Confusion matrix for predicting levels of immersion">
+  <img src="../assets/images/projects/image 7.png" alt="Confusion matrix for predicting levels of immersion" style="width:500px">
   <figcaption>Confusion matrix for predicting levels of immersion</figcaption>
 </figure>
 <figure>
-  <img src="../assets/images/projects/image 8.png" alt="And corresponding, absolutely awful accuracy. 5d hyperspace tables are not for me.">
+  <img src="../assets/images/projects/image 8.png" alt="And corresponding, absolutely awful accuracy. 5d hyperspace tables are not for me." style="width:500px">
   <figcaption>And corresponding, absolutely awful accuracy. 5d hyperspace tables are not for me.</figcaption>
 </figure>
 
@@ -259,6 +260,8 @@ I did some very interesting electronics projects, but I feel like I'm not very g
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=551760206/size=small/bgcol=ffffff/linkcol=0687f5/track=2380902705/transparent=true/" seamless><a href="https://c418.bandcamp.com/album/minecraft-volume-beta">Minecraft - Volume Beta de C418</a></iframe>
 
+[https://c418.bandcamp.com/track/stal](https://c418.bandcamp.com/track/stal)
+
 *A little music to ease my soul and yours while reading*
 
 ## **Plethysmograph**
@@ -302,7 +305,7 @@ A MariaDB instance was deployed on 1 worker, and a pre-made app was deployed on 
 
 Configuration of a Cisco switch, RADIUS, DHCP servers, and of course creation of 5 VLANs.
 <figure>
-  <img src="../assets/images/projects/Capture_dcran_2023-10-24_092745.png" alt="VLAN planning.">
+  <img src="../assets/images/projects/Capture_dcran_2023-10-24_092745.png" alt="VLAN planning." style="width:500px">
 </figure>
 
 
@@ -312,7 +315,7 @@ Configuration of a Cisco switch, RADIUS, DHCP servers, and of course creation of
 
 EEG, Blood biomarkers such as GNG7, CCND1, heart rate, blood pressure and pupillary diameter variability… So much perspectives to dig! 
 <figure>
-  <img src="../assets/images/projects/image 16.png" alt="VLAN planning.">
+  <img src="../assets/images/projects/image 16.png" alt="Ouch" style="width:500px">
 </figure>
 
 
