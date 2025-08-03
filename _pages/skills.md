@@ -76,17 +76,105 @@ I have so much pictures that I can make slideshows that annoys my friends, but I
 
 <figure class="third">
   <a href="../assets/images/skills/IMG_20240807_103001.jpg">
-  <img src="../assets/images/skills/IMG_20240807_103001.jpg" alt="prout"></a>
+  <img src="../assets/images/skills/IMG_20240807_103001.jpg"></a>
 
-  <a href="../assets/images/skills/IMG_20240807_102953.jpg"></a>
-  <a href="../assets/images/skills/IMG_20240730_135939.jpg"></a>
-  <a href="../assets/images/skills/IMG_20240428_104621.jpg"></a>
-  <a href="../assets/images/skills/IMG_20240426_130936.jpg"></a>
-  <a href="../assets/images/skills/IMG_20240802_162111.jpg"></a>
+  <a href="../assets/images/skills/IMG_20240807_102953.jpg">
+  <img src="../assets/images/skills/IMG_20240807_102953.jpg"></a>
 
+  <a href="../assets/images/skills/IMG_20240730_135939.jpg">
+  <img src="../assets/images/skills/IMG_20240730_135939.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240428_104621.jpg">
+  <img src="../assets/images/skills/IMG_20240428_104621.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240426_130936.jpg">
+  <img src="../assets/images/skills/IMG_20240426_130936.jpg"></a>
+
+  <a href="../assets/images/skills/IMG_20240802_162111.jpg">
+  <img src="../assets/images/skills/IMG_20240802_162111.jpg"></a>
 
   <figcaption>Yes, there is an outsider!</figcaption>
 </figure>
+
+<figure class="seventh">
+    <a href="../assets/images/skills/IMG_20240202_140452.jpg">
+    <img src="../assets/images/skills/IMG_20240202_140452.jpg" style="height:120px"></a>
+   <a href="../assets/images/skills/IMG_20240203_123106.jpg">
+    <img src="../assets/images/skills/IMG_20240203_123106.jpg" style="width:120px"></a>
+   <a href="../assets/images/skills/IMG_20240215_203927.jpg">
+    <img src="../assets/images/skills/IMG_20240215_203927.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240216_173820.jpg">
+    <img src="../assets/images/skills/IMG_20240216_173820.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240305_121401.jpg">
+    <img src="../assets/images/skills/IMG_20240305_121401.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240415_082541.jpg">
+    <img src="../assets/images/skills/IMG_20240415_082541.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240717_194634.jpg" >
+    <img src="../assets/images/skills/IMG_20240717_194634.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240718_193448.jpg">
+    <img src="../assets/images/skills/IMG_20240718_193448.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240720_183042.jpg">
+    <img src="../assets/images/skills/IMG_20240720_183042.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240729_121519.jpg">
+    <img src="../assets/images/skills/IMG_20240729_121519.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240731_122118.jpg">
+    <img src="../assets/images/skills/IMG_20240731_122118.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240731_184930.jpg">
+    <img src="../assets/images/skills/IMG_20240731_184930.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240803_155208.jpg">
+    <img src="../assets/images/skills/IMG_20240803_155208.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240803_231500_804.jpg">
+    <img src="../assets/images/skills/IMG_20240803_231500_804.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240805_211801.jpg">
+    <img src="../assets/images/skills/IMG_20240805_211801.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240806_145545.jpg">
+    <img src="../assets/images/skills/IMG_20240806_145545.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240806_185258.jpg">
+    <img src="../assets/images/skills/IMG_20240806_185258.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240807_154837.jpg">
+    <img src="../assets/images/skills/IMG_20240807_154837.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240807_201950.jpg">
+    <img src="../assets/images/skills/IMG_20240807_201950.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240809_181742.jpg">
+    <img src="../assets/images/skills/IMG_20240809_181742.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240810_125508.jpg">
+    <img src="../assets/images/skills/IMG_20240810_125508.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240810_204548.jpg">
+    <img src="../assets/images/skills/IMG_20240810_204548.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240811_151233.jpg">
+    <img src="../assets/images/skills/IMG_20240811_151233.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240811_193013.jpg">
+    <img src="../assets/images/skills/IMG_20240811_193013.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240812_172322.jpg">
+    <img src="../assets/images/skills/IMG_20240812_172322.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240813_125825.jpg">
+    <img src="../assets/images/skills/IMG_20240813_125825.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240813_190428.jpg">
+    <img src="../assets/images/skills/IMG_20240813_190428.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240814_195448.jpg">
+    <img src="../assets/images/skills/IMG_20240814_195448.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240818_162355.jpg">
+    <img src="../assets/images/skills/IMG_20240818_162355.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240818_205451.jpg">
+    <img src="../assets/images/skills/IMG_20240818_205451.jpg" style="width: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240821_154300.jpg">
+    <img src="../assets/images/skills/IMG_20240821_154300.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240821_154305.jpg">
+    <img src="../assets/images/skills/IMG_20240821_154305.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240828_214611.jpg">
+    <img src="../assets/images/skills/IMG_20240828_214611.jpg" style="height: 120px"></a>
+</figure>
+Vietnamese, Thaï, Chinese, Korean and Japanese food! (french chocolate spotted)
+
+
+
+
+
+
+
+
+
+
 
 
 
