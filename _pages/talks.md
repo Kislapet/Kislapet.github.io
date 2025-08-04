@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Talks"
+title: "Talks / Biology"
 header:
   overlay_image: "assets/images/header1.png"
   overlay_filter: "0.0"
