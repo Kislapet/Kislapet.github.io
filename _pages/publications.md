@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Articles / Publications"
 header:
   overlay_image: "assets/images/header5.png"
   overlay_filter: "0.0"
