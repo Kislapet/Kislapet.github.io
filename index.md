@@ -35,3 +35,7 @@ To achieve the first option, I have to make experience as a junior developer.
 My main worry is to have really slow and boring first experiences that would make me fed up about developing. 
 
 My ideal job involves to be given an interesting, challenging mission and to be surrounded by a trustworthy team.
+
+My even-more-ideal job would be this and working directly in a life sciences or health field.
+
+The job of my wildest, sleep-deprived, mint-tea-fueled dreams would have infinite snacks, hammocks, music practice room and lasergames. But I think I’m getting lost.
