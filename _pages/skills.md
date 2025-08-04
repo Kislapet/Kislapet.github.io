@@ -1,6 +1,6 @@
 ---
 permalink: /skills/
-title: "Skills"
+title: "Skills / Hobbies"
 header:
   overlay_image: "assets/images/header3.png"
   overlay_filter: "0.0"
@@ -58,7 +58,7 @@ The mission was simple : communicate about the event, cook and manage the transp
 
 First, was the promotional video released on social media, trying to reproduce early television style, switching to Technicolor :
 
-<iframe width="445" height="791" src="https://www.youtube.com/embed/QAws5rPVEGY" title="pavlova" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="445" height="445" src="https://www.youtube.com/embed/QAws5rPVEGY" title="pavlova" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Then, the making of the cakes (winter fruits version) :
 <figure>
@@ -96,17 +96,45 @@ I have so much pictures that I can make slideshows that annoys my friends, but I
   <figcaption>Yes, there is an outsider!</figcaption>
 </figure>
 
-<figure class="seventh">
+<figure class="sixth">
     <a href="../assets/images/skills/IMG_20240202_140452.jpg">
     <img src="../assets/images/skills/IMG_20240202_140452.jpg" style="height:120px"></a>
-   <a href="../assets/images/skills/IMG_20240203_123106.jpg">
-    <img src="../assets/images/skills/IMG_20240203_123106.jpg" style="width:120px"></a>
-   <a href="../assets/images/skills/IMG_20240215_203927.jpg">
-    <img src="../assets/images/skills/IMG_20240215_203927.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240216_173820.jpg">
     <img src="../assets/images/skills/IMG_20240216_173820.jpg" style="height: 120px"></a>
    <a href="../assets/images/skills/IMG_20240305_121401.jpg">
     <img src="../assets/images/skills/IMG_20240305_121401.jpg" style="height: 120px"></a>
+    <a href="../assets/images/skills/IMG_20240731_122118.jpg">
+    <img src="../assets/images/skills/IMG_20240731_122118.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240731_184930.jpg">
+    <img src="../assets/images/skills/IMG_20240731_184930.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240803_155208.jpg">
+    <img src="../assets/images/skills/IMG_20240803_155208.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240803_231500_804.jpg">
+    <img src="../assets/images/skills/IMG_20240803_231500_804.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240805_211801.jpg">
+    <img src="../assets/images/skills/IMG_20240805_211801.jpg" style="height: 120px"></a>
+       <a href="../assets/images/skills/IMG_20240807_154837.jpg">
+    <img src="../assets/images/skills/IMG_20240807_154837.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240807_201950.jpg">
+    <img src="../assets/images/skills/IMG_20240807_201950.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240809_181742.jpg">
+    <img src="../assets/images/skills/IMG_20240809_181742.jpg" style="height: 120px"></a>
+    <a href="../assets/images/skills/IMG_20240811_151233.jpg">
+    <img src="../assets/images/skills/IMG_20240811_151233.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240811_193013.jpg">
+    <img src="../assets/images/skills/IMG_20240811_193013.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240812_172322.jpg">
+    <img src="../assets/images/skills/IMG_20240812_172322.jpg" style="height: 120px"></a>
+    <a href="../assets/images/skills/IMG_20240821_154300.jpg">
+    <img src="../assets/images/skills/IMG_20240821_154300.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240821_154305.jpg">
+    <img src="../assets/images/skills/IMG_20240821_154305.jpg" style="height: 120px"></a>
+   <a href="../assets/images/skills/IMG_20240828_214611.jpg">
+    <img src="../assets/images/skills/IMG_20240828_214611.jpg" style="height: 120px"></a>
+    <a href="../assets/images/skills/IMG_20240203_123106.jpg">
+    <img src="../assets/images/skills/IMG_20240203_123106.jpg" style="width:120px"></a>
+   <a href="../assets/images/skills/IMG_20240215_203927.jpg">
+    <img src="../assets/images/skills/IMG_20240215_203927.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240415_082541.jpg">
     <img src="../assets/images/skills/IMG_20240415_082541.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240717_194634.jpg" >
@@ -117,38 +145,16 @@ I have so much pictures that I can make slideshows that annoys my friends, but I
     <img src="../assets/images/skills/IMG_20240720_183042.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240729_121519.jpg">
     <img src="../assets/images/skills/IMG_20240729_121519.jpg" style="width: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240731_122118.jpg">
-    <img src="../assets/images/skills/IMG_20240731_122118.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240731_184930.jpg">
-    <img src="../assets/images/skills/IMG_20240731_184930.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240803_155208.jpg">
-    <img src="../assets/images/skills/IMG_20240803_155208.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240803_231500_804.jpg">
-    <img src="../assets/images/skills/IMG_20240803_231500_804.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240805_211801.jpg">
-    <img src="../assets/images/skills/IMG_20240805_211801.jpg" style="height: 120px"></a>
    <a href="../assets/images/skills/IMG_20240806_145545.jpg">
     <img src="../assets/images/skills/IMG_20240806_145545.jpg" style="width: 120px"></a>
+    <a href="../assets/images/skills/IMG_20240813_125825.jpg">
+    <img src="../assets/images/skills/IMG_20240813_125825.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240806_185258.jpg">
     <img src="../assets/images/skills/IMG_20240806_185258.jpg" style="width: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240807_154837.jpg">
-    <img src="../assets/images/skills/IMG_20240807_154837.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240807_201950.jpg">
-    <img src="../assets/images/skills/IMG_20240807_201950.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240809_181742.jpg">
-    <img src="../assets/images/skills/IMG_20240809_181742.jpg" style="height: 120px"></a>
    <a href="../assets/images/skills/IMG_20240810_125508.jpg">
     <img src="../assets/images/skills/IMG_20240810_125508.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240810_204548.jpg">
     <img src="../assets/images/skills/IMG_20240810_204548.jpg" style="width: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240811_151233.jpg">
-    <img src="../assets/images/skills/IMG_20240811_151233.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240811_193013.jpg">
-    <img src="../assets/images/skills/IMG_20240811_193013.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240812_172322.jpg">
-    <img src="../assets/images/skills/IMG_20240812_172322.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240813_125825.jpg">
-    <img src="../assets/images/skills/IMG_20240813_125825.jpg" style="height: 120px"></a>
    <a href="../assets/images/skills/IMG_20240813_190428.jpg">
     <img src="../assets/images/skills/IMG_20240813_190428.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240814_195448.jpg">
@@ -157,17 +163,11 @@ I have so much pictures that I can make slideshows that annoys my friends, but I
     <img src="../assets/images/skills/IMG_20240818_162355.jpg" style="width: 120px"></a>
    <a href="../assets/images/skills/IMG_20240818_205451.jpg">
     <img src="../assets/images/skills/IMG_20240818_205451.jpg" style="width: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240821_154300.jpg">
-    <img src="../assets/images/skills/IMG_20240821_154300.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240821_154305.jpg">
-    <img src="../assets/images/skills/IMG_20240821_154305.jpg" style="height: 120px"></a>
-   <a href="../assets/images/skills/IMG_20240828_214611.jpg">
-    <img src="../assets/images/skills/IMG_20240828_214611.jpg" style="height: 120px"></a>
 </figure>
 Vietnamese, Thaï, Chinese, Korean and Japanese food! (french chocolate spotted)
 
 
-
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 
