@@ -9,6 +9,29 @@ header:
   overlay_filter: "0.0"
 ---
 
-I am a **graduate student** IT at EPISEN, Créteil (France). My research interests are in the area of neurosciences and Gen AI. My main projects are:
- - Project 1
- - Project 2
+**Hello! Welcome to my website!** 
+
+I made it to create a **more personal and detailed** approach of my profile, in **complement** of a classic CV or cover letter. 
+
+It will maybe be used for other purposes, such as a memo, a portfolio for finding musicians, or for volunteering for example. Life is too short to be tidy! 
+
+Summary : 
+
+- I love **biology** !
+- I love **IT** !
+- I want to fuse both !!!!
+
+My main possibilities are :
+
+- Becoming a **cross-field** engineer
+    - Do research
+    - Work in a company
+- Becoming **entrepreneur**
+- Becoming a doctor ???
+- Becoming a rockstar drummer ????? (in my dreams)
+
+To achieve the first option, I have to make experience as a junior developer. 
+
+My main worry is to have really slow and boring first experiences that would make me fed up about developing. 
+
+My ideal job involves to be given an interesting, challenging mission and to be surrounded by a trustworthy team.
