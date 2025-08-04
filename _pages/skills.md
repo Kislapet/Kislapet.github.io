@@ -7,10 +7,7 @@ header:
 ---
 
 
-# Skills / Hobbies
-
 # Music
-
 ## Drumming
 
 I started learning drums in 2014.
