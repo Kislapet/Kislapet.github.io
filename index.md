@@ -19,7 +19,7 @@ Summary :
 
 - I love **biology** !
 - I love **IT** !
-- I want to fuse both !!!!
+- I want to bridge both !!!!
 
 My main possibilities are :
 
@@ -27,7 +27,7 @@ My main possibilities are :
     - Do research
     - Work in a company
 - Becoming **entrepreneur**
-- Becoming a doctor ???
+- Becoming a doctor (GP)???
 - Becoming a rockstar drummer ????? (in my dreams)
 
 To achieve the first option, I have to make experience as a junior developer. 
