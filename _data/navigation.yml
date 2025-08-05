@@ -3,7 +3,8 @@ main:
     url: /projects/
   - title: "Skills / Hobbies"
     url: /skills/
-  - title: "Talks / Biology"
-    url: /talks/
   - title: "Articles / Publications"
     url: /publications/
+  - title: "Talks / Biology"
+    url: /talks/
+
