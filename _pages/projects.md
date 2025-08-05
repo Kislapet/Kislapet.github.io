@@ -326,4 +326,8 @@ Just burn Alexa
 
 ## RTFM : Application to regroup all protocols for an hospital
 
-Each hospitals has its own dozens of protocols. The complexity of the IT systems and practitioners’ lack of time results in walls covered in protocol poste
+Each hospitals has its own dozens of protocols. The complexity of the IT systems and practitioners’ lack of time results in walls covered in protocol posters.
+
+<a href="https://kislapet.github.io/projects/">
+    <button style="background-color: #f21368;">Go back!</button>
+</a>
