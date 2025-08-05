@@ -6,9 +6,11 @@ header:
   overlay_filter: "0.0"
 ---
 
-<h1 style="text-align: center;">Various projects</h1>
-#Various projects
+
 Favorite projects have a little emoji heart (❤) on them
+
+<h1 style="text-align: center; color: #f21368">Various projects</h1>
+
 
 ## Owls Worst Nightmare : Final engineering project ❤
 
@@ -146,11 +148,12 @@ Creation of an interface on Matlab allowing the user to simulate a signal by sel
   <img src="../assets/images/projects/image 4.png" alt="Interface visualization.">
 </figure>
 
-# Machine Learning Projects
+
+<h1 style="text-align: center; color: #f21368">Machine Learning Projects</h1>
 
 ## Giving The Voice Back: Voice synthesizer for people with voice loss ❤
 
-Creating a vocal synthesizer that would be able to recreate the patient’s former voice, and to speak old French languages (Breton, Patois, Occitan…) and write a publication (in the publications tab!!!)
+Creating a vocal synthesizer that would be able to recreate the patient’s former voice, and to speak France's local languages (Breton, Patois, Occitan…) and write a publication (in the publications tab!!!)
 
 This project uses So-VITS-SVC (State-of-the-art Variational Inference-based Text-to-Speech (TTS) Vocoder with Speech Conversion), which is a neural network designed for speech synthesis. It can extract speaker’s embeddings and vocoders to reproduce waveforms.
 <figure>
@@ -248,8 +251,7 @@ See you in the next episode : Pericarditis vs. Lasagna.
 Simple prediction of coronary disease probability using Kaggle dataset.
 
 
-
-# Electronics projects :
+<h1 style="text-align: center; color: #f21368">Electronics projects</h1>
 
 *Don’t ask me how but it works*
 
@@ -290,11 +292,11 @@ Another way to get the BPM. For each heartbeat, a LED brightens. With a small pi
 </figure>
 
 
-# Networks projects:
+<h1 style="text-align: center; color: #f21368">Networks projects</h1>
 
 ## Web server deployment with Ansible
 
-Writing a playbook to use nginx on 3 VM
+Writing a playbook to use nginx on 3 VM.
 
 ## Multi-node Kubernetes with KIND
 
@@ -308,7 +310,7 @@ Configuration of a Cisco switch, RADIUS, DHCP servers, and of course creation of
 </figure>
 
 
-# Future projects :
+<h1 style="text-align: center; color: #f21368">Future projects</h1>
 
 ## Ouch My Toe 2 : Assessing pain in an objective fashion
 
@@ -324,4 +326,4 @@ Just burn Alexa
 
 ## RTFM : Application to regroup all protocols for an hospital
 
-Each hospitals has its own dozens of protocols. The complexity of the IT systems and practitioners’ lack of time results in walls covered in protocol posters.
+Each hospitals has its own dozens of protocols. The complexity of the IT systems and practitioners’ lack of time results in walls covered in protocol poste
