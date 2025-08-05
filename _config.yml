@@ -56,13 +56,16 @@ plugins:
   - jekyll-include-cache
   
 author:
-  name   : "parpaing parpaing"
+  name   : "Astrid Boudrie"
   avatar : "/assets/images/photo.jpg"
   bio    : "Graduate student in IT for Health at EPISEN (Créteil, France), interested in Neurosciences and AI."
   links:
     # - label: "Episen"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://episen.u-pec.fr/formations/technologies-pour-la-sante-its"
+    - label: "Mail"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:astrid.boudrie-vergne@etu.u-pec.fr?body=Bonjour%0d%0aAu%20SeeYouLaterAlligator"
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/astrid-boudrie-vergne-420b3b21b/"
