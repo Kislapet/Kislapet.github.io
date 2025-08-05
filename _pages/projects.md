@@ -329,21 +329,5 @@ Just burn Alexa
 Each hospitals has its own dozens of protocols. The complexity of the IT systems and practitioners’ lack of time results in walls covered in protocol posters.
 
 <a href="https://kislapet.github.io/projects/">
-    <button style="background-color: #f21368; align-self: center; border: none" >Scroll back</button>
+    <button style="background-color: #f21368; align-self: center; border: none;padding: 15px 32px;font-size: 16px;border-radius: 12px;" >Scroll back</button>
 </a>
-<style>
-    .button {
-      background-color: #f21368;
-      align-self: center;
-      border: none;
-      padding: 15px 32px;
-      font-size: 16px;
-      border-radius: 12px;
-      transition-duration: 0.4s;
-    }
-
-    .button:hover {
-      background-color: #d10050;
-      color: white;
-    }
-  </style>
