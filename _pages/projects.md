@@ -6,8 +6,8 @@ header:
   overlay_filter: "0.0"
 ---
 
-
-# Projects
+<h1 style="text-align: center;">Various projects</h1>
+#Various projects
 Favorite projects have a little emoji heart (❤) on them
 
 ## Owls Worst Nightmare : Final engineering project ❤
