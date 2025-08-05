@@ -163,7 +163,7 @@ Vietnamese, Thaï, Chinese, Korean and Japanese food! (french chocolate spotted)
 
 
 
-<a href="https://kislapet.github.io/projects/">
+<a href="https://kislapet.github.io/skills/">
     <button style="background-color: #f21368; align-self: center; border: none;padding: 15px 32px;font-size: 16px;border-radius: 12px;" >Scroll back</button>
 </a>
 
