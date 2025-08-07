@@ -11,14 +11,14 @@ header:
 
 **Hello! Welcome to my website!** 
 
-I made it to create a **more personal and detailed** approach of my profile, in **complement** of a classic CV or cover letter. 
+I created it to offer a **more personal and detailed** view of my profile, in order to complement a classic CV or cover letter.
 
 It will maybe be used for other purposes, such as a memo, a portfolio for finding musicians, or for volunteering for example. Life is too short to be tidy! 
 
 Summary : 
 
 - I love **biology** !
-- I love **IT** !
+- I love **information technologies** !
 - I want to bridge both !!!!
 
 My main possibilities are :
@@ -30,12 +30,12 @@ My main possibilities are :
 - Becoming a doctor (GP)???
 - Becoming a rockstar drummer ????? (in my dreams)
 
-To achieve the first option, I have to make experience as a junior developer. 
+To achieve the first option, I have to gain experience as a junior developer. 
 
-My main worry is to have really slow and boring first experiences that would make me fed up about developing. 
+My main concern is that if my first few experiences are too slow or boring, I might lose interest in software engineering.
 
-My ideal job involves to be given an interesting, challenging mission and to be surrounded by a trustworthy team.
+My ideal job involves being given an interesting, challenging mission and being surrounded by a trustworthy team.
 
-My even-more-ideal job would be this and working directly in a life sciences or health field.
+My even more ideal job would combine this with working directly in the life sciences or health field.
 
-The job of my wildest, sleep-deprived, mint-tea-fueled dreams would have infinite snacks, hammocks, music practice room and lasergames. But I think I’m getting lost.
+The job of my wildest, sleep-deprived, mint-tea-fueled dreams would have infinite snacks, hammocks, a music practice room, and laser tag. But I think I'm getting a bit carried away.
