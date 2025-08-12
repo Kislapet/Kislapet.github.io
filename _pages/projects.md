@@ -7,6 +7,12 @@ header:
 ---
 
 
+* [Various projects](#owls-worst-nightmare--final-engineering-project-)
+* [Machine Learning Projects](#giving-the-voice-back-voice-synthesizer-for-people-with-voice-loss-)
+* [Electronics projects](#plethysmograph)
+* [Networks projects](#web-server-deployment-with-ansible)
+* [Future projects](#ouch-my-toe-2--assessing-pain-in-an-objective-fashion)
+
 Favorite projects have a little emoji heart (❤) on them
 
 <h1 style="text-align: center; color: #f21368">Various projects</h1>
