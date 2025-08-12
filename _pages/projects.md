@@ -15,7 +15,7 @@ header:
 
 Favorite projects have a little emoji heart (❤) on them
 
-<h1 style="text-align: center; color: #f21368">Various projects</h1>
+#<h1 style="text-align: center; color: #f21368">Various projects</h1>
 # <h1 style="text-align: center; color: #f21368">Various projects</h1>
 
 
