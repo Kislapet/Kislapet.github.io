@@ -15,7 +15,7 @@ header:
 
 Favorite projects have a little emoji heart (❤) on them
 
-<h1 style="text-align: center;position:sticky;top:0; color: #f21368">Various projects</h1>
+<h1 style="text-align: center; color: #f21368">Various projects</h1>
 
 
 ## Owls Worst Nightmare : Final engineering project ❤
@@ -155,7 +155,7 @@ Creation of an interface on Matlab allowing the user to simulate a signal by sel
 </figure>
 
 
-<h1 style="text-align: center;position: sticky;top:0; color: #f21368">Machine Learning Projects</h1>
+<h1 style="text-align: center; color: #f21368">Machine Learning Projects</h1>
 
 ## Giving The Voice Back: Voice synthesizer for people with voice loss ❤
 
@@ -257,7 +257,7 @@ See you in the next episode : Pericarditis vs. Lasagna.
 Simple prediction of coronary disease probability using Kaggle dataset.
 
 
-<h1 style="text-align: center;position: sticky;top:0; color: #f21368">Electronics projects</h1>
+<h1 style="text-align: center; color: #f21368">Electronics projects</h1>
 
 *Don’t ask me how but it works*
 
@@ -298,7 +298,7 @@ Another way to get the BPM. For each heartbeat, a LED brightens. With a small pi
 </figure>
 
 
-<h1 style="text-align: center;position:sticky;top:0; color: #f21368">Networks projects</h1>
+<h1 style="text-align: center; color: #f21368">Networks projects</h1>
 
 ## Web server deployment with Ansible
 
@@ -316,7 +316,7 @@ Configuration of a Cisco switch, RADIUS, DHCP servers, and of course creation of
 </figure>
 
 
-<h1 style="text-align: center;position:sticky;top:0; color: #f21368">Future projects</h1>
+<h1 style="text-align: center; color: #f21368">Future projects</h1>
 
 ## Ouch My Toe 2 : Assessing pain in an objective fashion
 
@@ -337,4 +337,3 @@ Each hospital has its own dozens of protocols. The complexity of the IT systems 
 <a href="https://kislapet.github.io/projects/">
     <button style="background-color: #f21368; color: white; align-self: center; border: none;padding: 15px 32px;font-size: 16px;border-radius: 12px;" >Scroll back</button>
 </a>
-
