@@ -16,6 +16,7 @@ header:
 Favorite projects have a little emoji heart (❤) on them
 
 <h1 style="text-align: center; color: #f21368">Various projects</h1>
+# <h1 style="text-align: center; color: #f21368">Various projects</h1>
 
 
 ## Owls Worst Nightmare : Final engineering project ❤
@@ -335,5 +336,5 @@ Just burn Alexa
 Each hospital has its own dozens of protocols. The complexity of the IT systems and practitioners’ lack of time results in walls covered in protocol posters.
 
 <a href="https://kislapet.github.io/projects/">
-    <button style="background-color: #f21368; align-self: center; border: none;padding: 15px 32px;font-size: 16px;border-radius: 12px;" >Scroll back</button>
+    <button style="background-color: #f21368; color: white; align-self: center; border: none;padding: 15px 32px;font-size: 16px;border-radius: 12px;">Scroll back</button>
 </a>
