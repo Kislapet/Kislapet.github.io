@@ -200,10 +200,12 @@ Give a 10-pages PDF file to a RAG, ask a question and get an answer.
 <summary>Read more...</summary>
 <br>
   
-Ask a question :
-<br>
+**Ask a question** :
+
+<br><br>
 "Comment sont évacués les déchets du système sanguin?”
-<br>   
+
+<br><br>
 Get the right page (here it’s the second one) :
 
 <figure>
@@ -211,12 +213,13 @@ Get the right page (here it’s the second one) :
 </figure>
     
 Get the answer :
-<br>    
+
+<br><br>    
 “Les déchets du système sanguin sont évacués de deux façons :
 <br>
-1. Le dioxyde de carbone est éliminé au niveau du système respiratoire.
+  1. Le dioxyde de carbone est éliminé au niveau du système respiratoire.
 <br>
-2. Les autres déchets (urée, acide urique, etc.) sont éliminés au niveau des reins chez les mammifères.”
+  2. Les autres déchets (urée, acide urique, etc.) sont éliminés au niveau des reins chez les mammifères.”
 </details>
 
 
