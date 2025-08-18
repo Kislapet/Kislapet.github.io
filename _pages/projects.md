@@ -199,11 +199,13 @@ Give a 10-pages PDF file to a RAG, ask a question and get an answer.
 <details>
 <summary>Read more...</summary>
 <br>
+  
 **Ask a question :**
     
 "Comment sont évacués les déchets du système sanguin?”
     
 **Get the right** information **page** (here it’s the second one) :
+
 <figure>
   <img src="../assets/images/projects/image 9.png" alt="image.png">
 </figure>
