@@ -200,7 +200,7 @@ Give a 10-pages PDF file to a RAG, ask a question and get an answer.
 <summary>Read more...</summary>
 <br>
   
-**Ask a question** :
+Ask a question :
 
 <br><br>
 "Comment sont évacués les déchets du système sanguin?”
