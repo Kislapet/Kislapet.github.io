@@ -13,7 +13,7 @@ header:
 
 I created it to offer a **more personal and detailed** view of my profile, in order to complement a classic CV or cover letter.
 
-It will maybe be used for other purposes, such as a memo, a portfolio for finding musicians, or for volunteering for example. Life is too short to be tidy! 
+Maybe it will also be used for other things, like a memo, a portfolio to find musicians, or for volunteering, just to name a few. Life is too short to keep things too tidy!
 
 Summary : 
 
@@ -30,7 +30,7 @@ My main possibilities are :
 - Becoming a doctor (GP)???
 - Becoming a rockstar drummer ????? (in my dreams)
 
-To achieve the first option, I have to gain experience as a junior developer. 
+To achieve the first option, I have to gain experience as a junior software developer. 
 
 My main concern is that if my first few experiences are too slow or boring, I might lose interest in software engineering.
 
