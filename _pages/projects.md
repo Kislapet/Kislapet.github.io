@@ -319,7 +319,7 @@ I had a few beginner projects to do : ultrasound object detection, infrared rece
 
 Here is my beautiful, bad-lightened, beeping interpretation of Megalovania (from Undertale) with buzzers:
 
-<iframe width="335" height="595" src="https://www.youtube.com/embed/E4uPJWUjx54" title="Mégalovarduino" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="167" height="297" src="https://www.youtube.com/embed/E4uPJWUjx54" title="Mégalovarduino" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
