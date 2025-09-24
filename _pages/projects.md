@@ -174,6 +174,14 @@ This project uses So-VITS-SVC (State-of-the-art Variational Inference-based Text
 
 This project is incomplete as it requires quite a lot of space and power (mp3 training data is really heavy). I wish to complete it someday.
 
+Why this project?
+I was free to choose the subject for this project. 
+I developed an interest in linguistics in my high school years after watching the movie Arrival (2016)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFMo3UJ4B4g?si=XyoRAdwB050DKV_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I think we have yet to realise the potential of combining AI and linguistics, as there will be so much more to do than just using LLMs!
+
 
 ## It’s TV Time ! EEG, ECG and respiration data analysis for detecting immersion levels
 
@@ -194,12 +202,13 @@ Analysis of multimodal data to predict participant immersion level while watchin
 
 ## I Have Eyes Now ! RAG Question Answering ❤
 
-Give a 10-pages PDF file to a RAG, ask a question and get an answer.
+Give a 10-pages PDF file to a RAG model, ask a question and get an answer.
+I used Qwen2VL with huggingface's transformers library.
 
 <details>
 <summary>Read more...</summary>
 <br>
-  
+
 Ask a question :
 
 <br><br>
