@@ -313,6 +313,16 @@ Another way to get the BPM. For each heartbeat, a LED brightens. With a small pi
 </figure>
 
 
+## Arduino stuff
+
+I had a few beginner projects to do : ultrasound object detection, infrared receiver, unlock a door with a digicode, or make music with buzzers.
+
+Here is my beautiful, bad-lightened, beeping interpretation of Megalovania (from Undertale) with buzzers:
+
+<iframe width="335" height="595" src="https://www.youtube.com/embed/E4uPJWUjx54" title="Mégalovarduino" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 <h1 style="text-align: center; color: #f21368">Networks projects</h1>
 
 ## Web server deployment with Ansible
